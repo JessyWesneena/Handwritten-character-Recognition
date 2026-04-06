@@ -10,8 +10,3 @@ Python
 NumPy, Pandas
 TensorFlow / Keras or Scikit-learn
 OpenCV / PIL
-# 📌 How It Works
-Input handwritten image
-Preprocess the image
-Feed into trained model
-Get predicted character output
